@@ -59,4 +59,5 @@ st.pyplot(fig3)
 
 # Footer
 st.markdown("---")
-st.markdown("Built by *Ahmed Sabur* • Powered by Streamlit & Matplotlib")
+st.markdown("Built by *Akbar Pirzada* • Powered by Streamlit & Matplotlib")
+
